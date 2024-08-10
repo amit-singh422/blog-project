@@ -1,2 +1,2 @@
 # blog-project
-author - amit
+author - amit singh
